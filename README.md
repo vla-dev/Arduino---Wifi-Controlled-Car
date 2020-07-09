@@ -41,7 +41,7 @@ You can use a simple LCD.
 
 All right!
 After you connect the LCD, restart the module and on the LCD will be shown different messages like: "Initializing...", "Connecting..." and finally you'll see the local IP of the module.
-Something like: "192.168.100.15" and the UDP Transport Protocol Port ( 8888 ).
+Something like: "192.168.100.15" and the UDP Port ( 8888 ).
 
 So far so good! 
 Now enter that IP on your mobile app and tap 'Connect!'
