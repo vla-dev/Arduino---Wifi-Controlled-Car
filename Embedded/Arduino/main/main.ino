@@ -1,4 +1,3 @@
-#include <ArduinoJson.h>
 #include "LCDIC2.h"
 #include<SoftwareSerial.h>
 
