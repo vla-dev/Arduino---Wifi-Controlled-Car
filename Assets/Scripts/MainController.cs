@@ -25,6 +25,7 @@ public class MainController : MonoBehaviour
 
     public void SendUDPData(string data)
     {
+        Debug.Log(data);
         SendToWifi.Instance.SendData(data);
     }
 

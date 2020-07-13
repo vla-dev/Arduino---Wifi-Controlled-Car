@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 101442675}
   - component: {fileID: 101442677}
   - component: {fileID: 101442678}
+  - component: {fileID: 101442680}
   m_Layer: 0
   m_Name: controller
   m_TagString: Untagged
@@ -205,6 +206,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedIp: {fileID: 720860981}
+--- !u!114 &101442680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101442674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac55e16c23c05a4995477598f27ecb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _throttle: 0
+  _steering: 0
+  _accelerationSpeed: 2
+  _steeringSpeed: 1
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
