@@ -7,6 +7,8 @@ Controlled via a custom module using:
  - ESP8266-07
  - Atmega328p
  - Some electronic parts to make that thing works..
+ 
+ ![Custom Module](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/controller.jpg?raw=true)
 
 # How it works?
 
@@ -48,4 +50,14 @@ Now enter that IP on your mobile app and tap 'Connect!'
 
 Yaay!! It works!
 
-I'll be back with some images and videos to demonstrate the functionality.
+# How it looks?
+
+ ![Electronics](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/controller.jpg?raw=true)
+ 
+ ![Electronics](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/electronics.jpg?raw=true)
+ 
+ ![Electronics](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/parts.jpg?raw=true)
+ 
+ ![Electronics](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/controll-demo.gif?raw=true)
+  
+  ![Electronics](https://github.com/vla-dev/Arduino---Wifi-Controlled-Car/blob/master/Images/steering_demo.gif?raw=true)
